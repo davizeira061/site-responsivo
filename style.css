@@ -58,6 +58,7 @@ img {
 }
 
 section.module.content {
+  width: 203%;
   padding: 40px 0;
   background: #4cbdfe6b;
 }
